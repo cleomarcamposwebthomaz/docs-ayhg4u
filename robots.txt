@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-bpa42a.garuda4dhav.cfd/sitemap.xml
